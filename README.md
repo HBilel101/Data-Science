@@ -17,8 +17,11 @@ This repository contains Data Science Courses and Ebooks that will help you exce
 
 **Data Science Courses**
 - [Data Science Specialization - Johns Hopkins University](https://www.coursera.org/professional-certificates/ibm-data-science)
+
 - [Applied Data Science with Python Specialization - University of Michigan ](https://www.coursera.org/specializations/data-science-python)
-- 
+
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?placement=Facebook_Desktop_Feed&campaign.id=6248262060349&adset.id=6277975547749&ad.id=6277976088949)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 
 
