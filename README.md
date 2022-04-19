@@ -15,6 +15,9 @@ This repository contains Data Science Courses and Ebooks that will help you exce
 
 - [Introduction to Probability for Data Science (ebook)](https://probability4datascience.com/index.html)
 
+**Data Science Courses**
+- [Data Science Specialization - Johns Hopkins University](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Applied Data Science with Python Specialization - University of Michigan ](https://www.coursera.org/specializations/data-science-python)
 - 
 
 
