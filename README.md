@@ -14,6 +14,7 @@ This repository contains Data Science Courses and Ebooks that will help you exce
 - [Mathematics Of Machine Learning - MIT](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/) 
 
 - [Introduction to Probability for Data Science (ebook)](https://probability4datascience.com/index.html)
+-  [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills?irclickid=xMvUqy18LxyLWo8wUx0Mo3EqUkGXCcXMJX3IXo0&irgwc=1) 
 
 **Data Science Courses**
 - [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
